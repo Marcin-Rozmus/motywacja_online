@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block body %}
+    <div class="content-container">
+        <div class="card content-container">
+            <div>
+                <img alt="Obraz motywujący" src="./static/card_img/{{ img_src }}" class="card-image">
+                <p class="card-text">{{ message }}</p>           
+            </div>
+        </div>
+    </div>
+    <div class="placeholder-slim"></div>
+    <div class="content-container">
+        <div>
+            <a href="./">LOSUJ</a>
+        </div>
+    </div>
+    <div class="placeholder-slim"></div>
+    <p class="card-number">{{ card_no }} / {{ total_no_cards }}</p>
+{% endblock body %}
