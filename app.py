@@ -100,8 +100,6 @@ CARDS = [
     {"text": "Żyj jako ofiara okoliczności.", "img_src": "wstazka.png"},
     {"text": "Stań się najgorszą wersją siebie.", "img_src": "martini.png"},
     {"text": "Pielęgnuj swoje ograniczenia.", "img_src": "bonsai.png"},
-]
-"""
     {"text": "Każde życie to wielki dar. Tylko nie Twoje.", "img_src": "prezent.png"},
     {
         "text": "Nie obawiaj się porażki. To już Twoje naturalne środowisko.",
@@ -113,7 +111,7 @@ CARDS = [
     },
     {"text": "Najlepszy na ból jest kolejny ból.", "img_src": "kierunki.png"},
     {"text": "Ból jest tymczasowy. Porażka jest wieczna.", "img_src": "drzewo.png"},
-"""
+]
 
 COLORS = [
     "aliceblue",
