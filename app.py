@@ -171,4 +171,4 @@ def get_random_index(collection):
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=21082)
+    app.run(debug=True, port=21082, host="0.0.0.0")
