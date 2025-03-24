@@ -111,6 +111,7 @@ CARDS = [
     },
     {"text": "Najlepszy na ból jest kolejny ból.", "img_src": "kierunki.png"},
     {"text": "Ból jest tymczasowy. Porażka jest wieczna.", "img_src": "drzewo.png"},
+    {"text": "Wybierz się w drogę. Drogę przez mękę.", "img_src": "mapa.png"}
 ]
 
 COLORS = [
