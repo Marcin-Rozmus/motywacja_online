@@ -1,10 +1,16 @@
 # Motywacja
 
-Projekt aplikacji do zarządzania motywacją demotywacją.
+Projekt aplikacji do zarządzania motywacją lub demotywacją.
 
 ## Opis
 
-Aplikacja pomaga uzyskać motywujący lub demotywujący tekst w formie eleganckich kart.
+Aplikacja pomaga znaleźć motywację w ciągu dnia.
+Po prostu kliknij w kartę, by ją odsłonić.
+Kliknij ponownie, by ją zakryć.
+Każde odsłonięcie karty losuje inny tekst motywacyjny.
+
+Wolisz demotywację?
+Kliknij w przełącznik w prawym górnym rogu i zmień tryb.
 
 ## Wymagania
 
@@ -33,4 +39,4 @@ python main.py
 
 ## Licencja
 
-MIT 
+MIT (zachowaj informacje o autorze)
