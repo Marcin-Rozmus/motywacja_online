@@ -1,20 +1,39 @@
-{% extends "layout.html" %}
-
-{% block body %}
-    <div class="content-container">
-        <div class="card content-container">
-            <div>
-                <img alt="Obraz motywujący" src="./static/card_img/{{ img_src }}" class="card-image">
-                <p class="card-text">{{ message }}</p>           
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>de_Motywator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="theme-toggle">
+            <input type="checkbox" id="theme-toggle">
+            <div class="slider round">
+                <i class="fas fa-smile"></i>
+                <i class="fas fa-skull"></i>
+            </div>
+        </label>
+    </div>
+    <div class="container">
+        <div class="card" id="motivationCard">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-back-pattern"></div>
+                </div>
+                <div class="card-back">
+                    <i class="motivation-icon" id="motivationIcon"></i>
+                    <p class="motivation-text">Kliknij, aby zobaczyć motywujący tekst</p>
+                    <div class="text-counter" id="textCounter"></div>
+                </div>
             </div>
         </div>
-    </div>
-    <div class="placeholder-slim"></div>
-    <div class="content-container">
-        <div>
-            <a href="./">LOSUJ</a>
+        <div class="author-info">
+            Stworzone z <i class="fas fa-heart"></i> przez <strong><a href="https://github.com/marcin-rozmus">Marcina Rozmus</a></strong>
         </div>
     </div>
-    <div class="placeholder-slim"></div>
-    <p class="card-number">{{ card_no }} / {{ total_no_cards }}</p>
-{% endblock body %}
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html> 

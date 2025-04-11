@@ -1,0 +1,327 @@
+[
+    {
+        "text": "Każdy dzień jest dobry, by się poddać.", 
+        "icon": "fas fa-sun",
+        "author": ""
+    },
+    {
+        "text": "Nie ilość i nie jakość.", 
+        "icon": "fas fa-chart-line",
+        "author": ""
+    },
+    {
+        "text": "Rób rzeczy od A do B.", 
+        "icon": "fas fa-plane",
+        "author": ""
+    },
+    {
+        "text": "Ignoruj swoje możliwości.", 
+        "icon": "fas fa-astronaut",
+        "author": ""
+    },
+    {
+        "text": "Nie zatrzymuj się na dnie, zawsze jest coś niżej.",
+        "icon": "fas fa-fish",
+        "author": ""
+    },
+    {
+        "text": "Później albo nigdy.", 
+        "icon": "fas fa-clock",
+        "author": ""
+    },
+    {
+        "text": "Nigdy nie nastawiaj się na sukces.", 
+        "icon": "fas fa-rocket",
+        "author": ""
+    },
+    {
+        "text": "Żyj tak, żeby inni nie chcieli być Tobą.", 
+        "icon": "fas fa-balance-scale",
+        "author": ""
+    },
+    {
+        "text": "Każdego dnia dawaj z siebie coraz mniej. ", 
+        "icon": "fas fa-arrow-down",
+        "author": ""
+    },
+    {
+        "text": "Bądź zawsze o krok do tyłu.", 
+        "icon": "fas fa-step-backward",
+        "author": ""
+    },
+    {
+        "text": "Zacząłeś, nie kończ.", 
+        "icon": "fas fa-cut",
+        "author": ""
+    },
+    {
+        "text": "Niech symbolem Twojego życia będzie zero.",
+        "icon": "fas fa-fire",
+        "author": ""
+    },
+    {
+        "text": "Zbuduj imperium demotywacji.", 
+        "icon": "fas fa-castle",
+        "author": ""
+    },
+    {
+        "text": "Dzień bez problemu to dzień stracony.", 
+        "icon": "fas fa-paper-plane",
+        "author": ""
+    },
+    {
+        "text": "Nie bierz odpowiedzialności za swoje błędy.", 
+        "icon": "fas fa-weight",
+        "author": ""
+    },
+    {
+        "text": "Wyznaczaj nowe granice niekompetencji.", 
+        "icon": "fas fa-globe",
+        "author": ""
+    },
+    {
+        "text": "Zawężaj swoje horyzonty.", 
+        "icon": "fas fa-compass",
+        "author": ""
+    },
+    {
+        "text": "Bądź pionierem w żadnej dziedzinie.", 
+        "icon": "fas fa-user",
+        "author": ""
+    },
+    {
+        "text": "Nie sięgaj nawet tam gdzie wzrok sięga.", 
+        "icon": "fas fa-glasses",
+        "author": ""
+    },
+    {
+        "text": "Nadzieja pierwszym krokiem do rozczarowania.",
+        "icon": "fas fa-dice",
+        "author": ""
+    },
+    {
+        "text": "Nie czekaj na innych sam rzucaj sobie kłody pod nogi.",
+        "icon": "fas fa-road",
+        "author": ""
+    },
+    {
+        "text": "Rozczarowuj każdego dnia.", 
+        "icon": "fas fa-star",
+        "author": ""
+    },
+    {
+        "text": "Bądź zorientowany na porażkę.", 
+        "icon": "fas fa-compass",
+        "author": ""
+    },
+    {
+        "text": "Nie liczy się to jak zaczynasz. Ani to jak kończysz.",
+        "icon": "fas fa-flag",
+        "author": ""
+    },
+    {
+        "text": "Cokolwiek robisz – nie warto.", 
+        "icon": "fas fa-heart-broken",
+        "author": ""
+    },
+    {
+        "text": "Niech Twoje działania mówią ciszej niż Twoje słowa.",
+        "icon": "fas fa-volume-mute",
+        "author": ""
+    },
+    {
+        "text": "Dopóki nie spróbujesz, nie dowiesz się, że się nie nadajesz.",
+        "icon": "fas fa-list",
+        "author": ""
+    },
+    {
+        "text": "Najtrudniejsze jest zdecydowanie się na bezczynność.",
+        "icon": "fas fa-couch",
+        "author": ""
+    },
+    {
+        "text": "Jeśli masz marzenie możesz je zignorować lub porzucić.",
+        "icon": "fas fa-sign",
+        "author": ""
+    },
+    {
+        "text": "Zmarnuj swój potencjał.", 
+        "icon": "fas fa-bolt",
+        "author": ""
+    },
+    {
+        "text": "Jeśli przechodzisz przez piekło, zatrzymaj się i odpocznij.",
+        "icon": "fas fa-fire",
+        "author": ""
+    },
+    {
+        "text": "Sukces to wymówka ludzi, którzy nie mają motywacji, by doświadczać porażek.",
+        "icon": "fas fa-handshake",
+        "author": ""
+    },
+    {
+        "text": "Uwierz w siebie, a niczego nie osiągniesz.",
+        "icon": "fas fa-mug-hot",
+        "author": ""
+    },
+    {
+        "text": "Bądź inicjatorem każdej porażki.",
+        "icon": "fas fa-lightbulb",
+        "author": ""
+    },
+    {
+        "text": "Kiedy spytają Cię jak się masz, odpowiedz, że wcale.",
+        "icon": "fas fa-skull",
+        "author": ""
+    },
+    {
+        "text": "Wystarczy nie chcieć.",
+        "icon": "fas fa-gem",
+        "author": ""
+    },
+    {
+        "text": "Żyj tak, by nikt nie przyszedł na Twój pogrzeb.",
+        "icon": "fas fa-users",
+        "author": ""
+    },
+    {
+        "text": "Chlub się porażką.",
+        "icon": "fas fa-trophy",
+        "author": ""
+    },
+    {
+        "text": "Droga do porażki usłana jest sukcesami.",
+        "icon": "fas fa-flask",
+        "author": ""
+    },
+    {
+        "text": "Upadaj zawsze plecami do mety.",
+        "icon": "fas fa-hiking",
+        "author": ""
+    },
+    {
+        "text": "Umrzyj nie próbując.",
+        "icon": "fas fa-sword",
+        "author": ""
+    },
+    {
+        "text": "Minimum to zbyt wiele.",
+        "icon": "fas fa-gauge-low",
+        "author": ""
+    },
+    {
+        "text": "Nie myśl o złocie. Zadowalaj się niczym.",
+        "icon": "fas fa-medal",
+        "author": ""
+    },
+    {
+        "text": "Przegap każdą okazję.",
+        "icon": "fas fa-meteor",
+        "author": ""
+    },
+    {
+        "text": "Aktywnie zaniżaj swój status.",
+        "icon": "fas fa-crown",
+        "author": ""
+    },
+    {
+        "text": "Gdy myślisz, że coś możesz lub czegoś nie możesz, to masz rację tylko w drugim przypadku.",
+        "icon": "fas fa-user",
+        "author": ""
+    },
+    {
+        "text": "Stosuj negatywną afirmację każdego dnia.",
+        "icon": "fas fa-dove",
+        "author": ""
+    },
+    {
+        "text": "Graj, by przegrać.",
+        "icon": "fas fa-gamepad",
+        "author": ""
+    },
+    {
+        "text": "Wybierz wymówki, a nie wyniki.",
+        "icon": "fas fa-wheelchair",
+        "author": ""
+    },
+    {
+        "text": "Niech Twoje ograniczenia nie mają granic.",
+        "icon": "fas fa-infinity",
+        "author": ""
+    },
+    {
+        "text": "Najgorszym momentem na rozpoczęcie jest teraz.",
+        "icon": "fas fa-tree",
+        "author": ""
+    },
+    {
+        "text": "Wypracuj nawyk przegrywania.",
+        "icon": "fas fa-paw",
+        "author": ""
+    },
+    {
+        "text": "Żyj jako ofiara okoliczności.",
+        "icon": "fas fa-tools",
+        "author": ""
+    },
+    {
+        "text": "Stań się najgorszą wersją siebie.",
+        "icon": "fas fa-glass-martini",
+        "author": ""
+    },
+    {
+        "text": "Pielęgnuj swoje ograniczenia.",
+        "icon": "fas fa-seedling",
+        "author": ""
+    },
+    {
+        "text": "Każde życie to wielki dar. Tylko nie Twoje.",
+        "icon": "fas fa-gift",
+        "author": ""
+    },
+    {
+        "text": "Nie obawiaj się porażki. To już Twoje naturalne środowisko.",
+        "icon": "fas fa-fish",
+        "author": ""
+    },
+    {
+        "text": "Nie liczy się ile razy upadniesz. Ani to czy powstaniesz.",
+        "icon": "fas fa-sync",
+        "author": ""
+    },
+    {
+        "text": "Najlepszy na ból jest kolejny ból.",
+        "icon": "fas fa-directions",
+        "author": ""
+    },
+    {
+        "text": "Ból jest tymczasowy. Porażka jest wieczna.",
+        "icon": "fas fa-tree",
+        "author": ""
+    },
+    {
+        "text": "Ciesz się z małych rzeczy. Dużych i tak nie osiągniesz.",
+        "icon": "fas fa-face-sad-tear",
+        "author": ""
+    },
+    {
+        "text": "Porażka to tylko pierwszy krok do kolejnej porażki.",
+        "icon": "fas fa-face-frown",
+        "author": ""
+    },
+    {
+        "text": "Sukces to suma małych wysiłków, których prawdopodobnie nigdy nie podejmiesz.",
+        "icon": "fas fa-face-tired",
+        "author": ""
+    },
+    {
+        "text": "Ktoś na świecie robi to samo co ty. Tylko lepiej i z mniejszym wysiłkiem.",
+        "icon": "fas fa-face-grimace",
+        "author": ""
+    },
+    {
+        "text": "Wybierz się w drogę. W drogę przez mękę.",
+        "icon": "fas fa-map",
+        "author": ""
+    } 
+] 
