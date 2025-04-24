@@ -1,17 +1,97 @@
 [
     {
-        "text": "Każdy krok przybliża Cię do celu.",
-        "icon": "fas fa-shoe-prints",
+        "text": "Szczerość i fakty zawsze obrażają słabych.",
+        "icon": "fas fa-balance-scale",
+        "author": "Rafał Mazur"
+    },
+    {
+        "text": "Przestań być dumny z przepracowania. Zacznij być dumny z wyników.",
+        "icon": "fas fa-trophy",
+        "author": "Sylwester Kłos"
+    },
+    {
+        "text": "Jeśli cię lubią, nie wykonujesz poprawnie swojej pracy.",
+        "icon": "fas fa-user-tie",
+        "author": "Elon Musk"
+    },
+    {
+        "text": "Nie stać nas na tolerowanie graczy klasy B.",
+        "icon": "fas fa-chess",
+        "author": "Elon Musk"
+    },
+    {
+        "text": "Gdy wartości są jasne wybory są proste.",
+        "icon": "fas fa-lightbulb",
+        "author": "Dan Pena"
+    },
+    {
+        "text": "Masz to co tolerujesz.",
+        "icon": "fas fa-handshake",
+        "author": "Rafał Mazur"
+    },
+    {
+        "text": "Będzie ciężko, ale dasz radę.",
+        "icon": "fas fa-fist-raised",
         "author": ""
     },
     {
-        "text": "Twoje myśli kształtują Twoją rzeczywistość.",
+        "text": "Cele bez daty ich wykonania są tylko marzeniami ",
+        "icon": "fas fa-calendar-check",
+        "author": ""
+    },
+    {
+        "text": "Ci którzy robią mogą.",
+        "icon": "fas fa-hammer",
+        "author": "Rafał Mazur"
+    },
+    {
+        "text": "Stal ostrzy stal.",
+        "icon": "fas fa-sword",
+        "author": "Louie Simmons"
+    },
+    {
+        "text": "Lepiej spierdolić niż nie próbować. A najlepiej nie spierdolić.",
+        "icon": "fas fa-dice",
+        "author": "Rafał Mazur"
+    },
+    {
+        "text": "Nie chce mi się, dlatego to zrobię.",
+        "icon": "fas fa-running",
+        "author": "Marcin Osman"
+    },
+    {
+        "text": "Najbardziej powszechną formą ludzkiej głupoty jest zapominanie o tym co chcemy osiągnąć.",
         "icon": "fas fa-brain",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "text": "A kto Ci powiedział, że będzie łatwo?",
+        "icon": "fas fa-mountain",
         "author": ""
     },
     {
-        "text": "Jesteś silniejszy niż myślisz.",
-        "icon": "fas fa-dumbbell",
-        "author": ""
+        "text": "Nie zawsze wszystko jest takie jak wydaje się.",
+        "icon": "fas fa-mask",
+        "author": "Rafał Mazur"
+    },
+    {
+        "text": "Im więcej ze sobą negocjujesz tym bardziej się osłabiasz.",
+        "icon": "fas fa-hand-holding-usd",
+        "author": "Rafał Mazur"
+    },
+    {
+        "text": "Nigdy nie ignoruj człowieka, który przecenia siebie.",
+        "icon": "fas fa-crown",
+        "author": "Charlie Munger"
+    },
+    {
+        "text": "Lekiem na wszystko jest zwyciężanie.",
+        "icon": "fas fa-medal",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "text": "Ludzie dzielą się na tych którzy mogą i na tych którzy nie mogą ",
+        "icon": "fas fa-users",
+        "author": "Max Stirner"
     }
 ] 
