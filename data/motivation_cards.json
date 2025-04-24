@@ -46,7 +46,7 @@
     },
     {
         "text": "Stal ostrzy stal.",
-        "icon": "fas fa-sword",
+        "icon": "fas fa-cut",
         "author": "Louie Simmons"
     },
     {
@@ -68,11 +68,6 @@
         "text": "A kto Ci powiedział, że będzie łatwo?",
         "icon": "fas fa-mountain",
         "author": ""
-    },
-    {
-        "text": "Nie zawsze wszystko jest takie jak wydaje się.",
-        "icon": "fas fa-mask",
-        "author": "Rafał Mazur"
     },
     {
         "text": "Im więcej ze sobą negocjujesz tym bardziej się osłabiasz.",
