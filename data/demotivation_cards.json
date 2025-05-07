@@ -16,7 +16,7 @@
     },
     {
         "text": "Ignoruj swoje możliwości.", 
-        "icon": "fas fa-astronaut",
+        "icon": "fas fa-rocket",
         "author": ""
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "text": "Nigdy nie nastawiaj się na sukces.", 
-        "icon": "fas fa-rocket",
+        "icon": "fas fa-arrow-up",
         "author": ""
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "text": "Zacząłeś, nie kończ.", 
-        "icon": "fas fa-cut",
+        "icon": "fas fa-scissors",
         "author": ""
     },
     {
@@ -61,17 +61,17 @@
     },
     {
         "text": "Zbuduj imperium demotywacji.", 
-        "icon": "fas fa-castle",
+        "icon": "fas fa-building",
         "author": ""
     },
     {
         "text": "Dzień bez problemu to dzień stracony.", 
-        "icon": "fas fa-paper-plane",
+        "icon": "fas fa-cloud",
         "author": ""
     },
     {
         "text": "Nie bierz odpowiedzialności za swoje błędy.", 
-        "icon": "fas fa-weight",
+        "icon": "fas fa-exclamation",
         "author": ""
     },
     {
@@ -96,7 +96,7 @@
     },
     {
         "text": "Nadzieja pierwszym krokiem do rozczarowania.",
-        "icon": "fas fa-dice",
+        "icon": "fas fa-dice-d20",
         "author": ""
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "text": "Bądź zorientowany na porażkę.", 
-        "icon": "fas fa-compass",
+        "icon": "fas fa-map-marker",
         "author": ""
     },
     {
@@ -141,7 +141,7 @@
     },
     {
         "text": "Jeśli masz marzenie możesz je zignorować lub porzucić.",
-        "icon": "fas fa-sign",
+        "icon": "fas fa-ban",
         "author": ""
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "text": "Jeśli przechodzisz przez piekło, zatrzymaj się i odpocznij.",
-        "icon": "fas fa-fire",
+        "icon": "fas fa-burn",
         "author": ""
     },
     {
@@ -181,12 +181,12 @@
     },
     {
         "text": "Żyj tak, by nikt nie przyszedł na Twój pogrzeb.",
-        "icon": "fas fa-users",
+        "icon": "fas fa-user-group",
         "author": ""
     },
     {
         "text": "Chlub się porażką.",
-        "icon": "fas fa-trophy",
+        "icon": "fas fa-award",
         "author": ""
     },
     {
@@ -201,7 +201,7 @@
     },
     {
         "text": "Umrzyj nie próbując.",
-        "icon": "fas fa-sword",
+        "icon": "fas fa-times",
         "author": ""
     },
     {
@@ -211,22 +211,22 @@
     },
     {
         "text": "Nie myśl o złocie. Zadowalaj się niczym.",
-        "icon": "fas fa-medal",
+        "icon": "fas fa-certificate",
         "author": ""
     },
     {
         "text": "Przegap każdą okazję.",
-        "icon": "fas fa-meteor",
+        "icon": "fas fa-minus",
         "author": ""
     },
     {
         "text": "Aktywnie zaniżaj swój status.",
-        "icon": "fas fa-crown",
+        "icon": "fas fa-chess-king",
         "author": ""
     },
     {
         "text": "Gdy myślisz, że coś możesz lub czegoś nie możesz, to masz rację tylko w drugim przypadku.",
-        "icon": "fas fa-user",
+        "icon": "fas fa-user-circle",
         "author": ""
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "text": "Wybierz wymówki, a nie wyniki.",
-        "icon": "fas fa-wheelchair",
+        "icon": "fas fa-thumbs-down",
         "author": ""
     },
     {
@@ -281,7 +281,7 @@
     },
     {
         "text": "Nie obawiaj się porażki. To już Twoje naturalne środowisko.",
-        "icon": "fas fa-fish",
+        "icon": "fas fa-water",
         "author": ""
     },
     {
@@ -296,27 +296,27 @@
     },
     {
         "text": "Ból jest tymczasowy. Porażka jest wieczna.",
-        "icon": "fas fa-tree",
+        "icon": "fas fa-leaf",
         "author": ""
     },
     {
         "text": "Ciesz się z małych rzeczy. Dużych i tak nie osiągniesz.",
-        "icon": "fas fa-face-sad-tear",
+        "icon": "fas fa-sad-tear",
         "author": ""
     },
     {
         "text": "Porażka to tylko pierwszy krok do kolejnej porażki.",
-        "icon": "fas fa-face-frown",
+        "icon": "fas fa-sad-cry",
         "author": ""
     },
     {
         "text": "Sukces to suma małych wysiłków, których prawdopodobnie nigdy nie podejmiesz.",
-        "icon": "fas fa-face-tired",
+        "icon": "fas fa-tired",
         "author": ""
     },
     {
         "text": "Ktoś na świecie robi to samo co ty. Tylko lepiej i z mniejszym wysiłkiem.",
-        "icon": "fas fa-face-grimace",
+        "icon": "fas fa-angry",
         "author": ""
     },
     {
